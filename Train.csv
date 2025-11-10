@@ -1,0 +1,201 @@
+device_id,device_type,purchase_date,serial_number,department,condition,status,warranty_status,estimated_lifespan_years,power_rating_watt,Damage_History,previous_repairs,Replacement_Type,last_repair_date,Original_Price,Current_Price,disposal_ready,dumb_price
+D001,Tablet,22-01-2016,SN620259,Business,Good,In Use,Expired,4,15,Yes,1,None,10-01-2021,15000,13961,TRUE,2372
+D002,Desktop,06-11-2019,SN862863,ECE,Fair,In Use,Expired,7,150,No,4,None,27-06-2023,25000,1525,FALSE,1424
+D003,Monitor,20-07-2022,SN657083,Business,Fair,In Use,Under Warranty,6,40,No,3,None,06-03-2025,19375,5313,FALSE,1636
+D004,Router,15-07-2020,SN371367,Admin,Good,Decommissioned,Under Warranty,5,20,No,3,None,09-08-2025,46978,39178,TRUE,1171
+D005,Laptop,17-08-2020,SN951370,ECE,Poor,In Repair,Under Warranty,5,65,No,0,None,N/A,26822,5364,TRUE,1513
+D006,Tablet,27-06-2019,SN426292,ECE,Good,Decommissioned,Expired,4,15,Yes,2,Duplicate,24-07-2024,65476,13095,TRUE,1743
+D007,Router,17-08-2019,SN164264,IT Services,Poor,In Repair,Under Warranty,5,20,No,1,None,01-06-2023,26278,17314,TRUE,1413
+D008,Router,19-02-2017,SN460827,Math,Poor,In Repair,Expired,5,20,No,2,None,25-09-2017,18553,6003,TRUE,1032
+D009,Desktop,25-06-2023,SN712420,Admin,Fair,Decommissioned,Under Warranty,7,150,No,1,None,01-04-2024,18836,9972,TRUE,1556
+D010,Tablet,18-01-2021,SN780853,Admin,Poor,In Repair,Expired,4,15,No,2,None,25-09-2023,6605,1976,TRUE,1586
+D011,Laptop,02-06-2015,SN614614,Humanities,Poor,In Repair,Expired,5,65,No,4,None,21-10-2020,19465,3893,TRUE,2184
+D012,Router,10-06-2015,SN769091,Physics,Good,In Repair,Under Warranty,5,20,Yes,1,Duplicate,06-11-2016,30864,6172,TRUE,2340
+D013,Desktop,18-12-2021,SN857890,Admin,Poor,In Use,Under Warranty,7,150,Yes,3,Duplicate,25-12-2024,53146,18521,FALSE,1556
+D014,Router,13-06-2022,SN311205,Math,Fair,In Use,Expired,5,20,Yes,1,None,02-06-2026,20089,12650,FALSE,2240
+D015,Router,10-02-2021,SN521354,Physics,Good,Decommissioned,Under Warranty,5,20,No,4,None,06-09-2023,30981,21648,TRUE,1738
+D016,Laptop,18-07-2018,SN701201,Physics,Good,Decommissioned,Expired,5,65,Yes,4,Original,08-09-2020,38128,7625,TRUE,2198
+D017,Monitor,28-06-2017,SN808206,Physics,Good,Decommissioned,Under Warranty,6,40,Yes,1,Duplicate,23-12-2019,65939,13187,TRUE,1601
+D018,Desktop,11-11-2019,SN446710,Admin,Poor,In Repair,Expired,7,150,No,4,None,20-04-2021,28313,10440,FALSE,1206
+D019,Desktop,27-09-2021,SN617609,CSE,Poor,Decommissioned,Under Warranty,7,150,Yes,2,Original,26-07-2022,44658,8931,TRUE,2278
+D020,Projector,02-11-2018,SN423355,Chemistry,Poor,Decommissioned,Under Warranty,6,250,Yes,0,None,N/A,50799,16415,TRUE,1109
+D021,Tablet,04-03-2018,SN635827,Math,Poor,In Repair,Under Warranty,4,15,Yes,0,Original,N/A,13959,2791,TRUE,1730
+D022,Desktop,25-02-2016,SN546312,Math,Fair,Decommissioned,Under Warranty,7,150,No,1,None,30-08-2019,58892,44636,TRUE,2273
+D023,Router,25-03-2019,SN300077,Math,Poor,Decommissioned,Expired,5,20,No,0,None,N/A,4610,2863,TRUE,1473
+D024,Projector,22-12-2017,SN288590,Physics,Fair,In Use,Expired,6,250,No,2,None,10-10-2021,8233,5336,TRUE,1498
+D025,Monitor,22-03-2021,SN510006,Chemistry,Good,In Repair,Under Warranty,6,40,No,1,None,18-11-2023,61404,43285,FALSE,1467
+D026,Desktop,27-05-2020,SN204019,Math,Poor,Decommissioned,Under Warranty,7,150,Yes,2,Original,08-01-2025,18469,3693,TRUE,1969
+D027,Laptop,22-10-2018,SN745695,IT Services,Good,In Use,Under Warranty,5,65,Yes,2,None,23-03-2024,14378,4752,TRUE,1055
+D028,Router,08-06-2018,SN543748,Physics,Good,In Use,Expired,5,20,Yes,2,None,08-08-2021,22378,4475,TRUE,2396
+D029,Printer,15-12-2015,SN707181,Library,Fair,Decommissioned,Under Warranty,6,30,Yes,1,Duplicate,07-04-2018,66928,26725,TRUE,1031
+D030,Monitor,21-12-2023,SN625921,ECE,Poor,In Repair,Under Warranty,6,40,No,4,None,16-06-2026,46537,10219,FALSE,1452
+D031,Projector,20-01-2020,SN440215,Math,Poor,Decommissioned,Under Warranty,6,250,Yes,1,Original,13-09-2022,27512,9026,TRUE,1922
+D032,Router,09-06-2021,SN547245,CSE,Good,In Repair,Under Warranty,5,20,Yes,4,Original,26-08-2022,26077,5215,FALSE,2240
+D033,Router,01-03-2024,SN289568,ECE,Poor,Decommissioned,Expired,5,20,Yes,1,Original,26-01-2029,38057,7611,TRUE,1171
+D034,Router,15-10-2017,SN131788,IT Services,Fair,Decommissioned,Expired,5,20,Yes,3,Original,13-05-2019,9914,6304,TRUE,1826
+D035,Monitor,28-11-2016,SN984535,Admin,Good,Decommissioned,Expired,6,40,Yes,4,Original,20-09-2020,4182,836,TRUE,1661
+D036,Tablet,17-01-2018,SN590001,Library,Fair,In Repair,Under Warranty,4,15,No,4,None,31-12-2020,11415,7277,TRUE,1110
+D037,Tablet,18-04-2017,SN760017,Admin,Good,In Use,Under Warranty,4,15,No,2,None,27-12-2020,37527,29692,TRUE,2310
+D038,Printer,15-04-2021,SN980147,Business,Poor,In Repair,Expired,6,30,No,1,None,15-11-2024,17988,3597,FALSE,2440
+D039,Monitor,19-11-2018,SN174681,Math,Fair,In Use,Expired,6,40,Yes,3,Original,18-06-2022,51455,39246,TRUE,1362
+D040,Monitor,10-05-2017,SN953033,Library,Good,Decommissioned,Under Warranty,6,40,Yes,1,None,03-01-2021,26947,5389,TRUE,1603
+D041,Monitor,05-07-2022,SN167477,ECE,Poor,In Use,Expired,6,40,No,1,None,06-05-2023,67695,32808,FALSE,1341
+D042,Projector,04-01-2017,SN196698,Admin,Poor,Decommissioned,Expired,6,250,No,0,None,N/A,8143,3812,TRUE,2084
+D043,Projector,23-12-2017,SN765454,IT Services,Poor,Decommissioned,Under Warranty,6,250,Yes,2,Duplicate,19-11-2019,16280,3256,TRUE,1454
+D044,Monitor,31-03-2021,SN657753,Math,Good,In Use,Expired,6,40,No,2,None,12-07-2022,54363,21454,FALSE,2210
+D045,Scanner,28-05-2017,SN689978,Math,Fair,In Use,Expired,5,35,No,1,None,09-04-2021,53615,35789,TRUE,1182
+D046,Tablet,27-12-2016,SN984810,ECE,Good,In Repair,Expired,4,15,Yes,2,None,07-08-2018,45000,9000,TRUE,1408
+D047,Desktop,23-10-2020,SN345645,IT Services,Fair,Decommissioned,Under Warranty,7,150,Yes,4,Duplicate,14-05-2024,69635,13927,TRUE,1895
+D048,Monitor,01-04-2023,SN608722,CSE,Poor,In Repair,Expired,6,40,No,4,None,09-02-2026,40003,14324,FALSE,1885
+D049,Printer,17-08-2021,SN529438,Chemistry,Fair,In Use,Expired,6,30,Yes,2,None,30-08-2025,62304,24460,FALSE,1855
+D050,Projector,18-03-2024,SN925517,CSE,Fair,In Repair,Under Warranty,6,250,No,3,None,05-08-2029,61804,14943,FALSE,1541
+D051,Scanner,25-09-2019,SN391544,Library,Poor,Decommissioned,Under Warranty,5,35,No,1,None,24-06-2023,45422,22294,TRUE,1565
+D052,Router,24-09-2021,SN271833,CSE,Fair,Decommissioned,Under Warranty,5,20,No,1,None,22-02-2023,45091,9018,TRUE,1990
+D053,Projector,08-06-2015,SN942016,Library,Fair,Decommissioned,Under Warranty,6,250,Yes,0,None,N/A,45675,27073,TRUE,1514
+D054,Projector,12-06-2020,SN887293,CSE,Poor,Decommissioned,Under Warranty,6,250,Yes,0,Duplicate,N/A,46578,9315,TRUE,1898
+D055,Projector,29-10-2023,SN681841,Business,Good,In Repair,Under Warranty,6,250,No,3,None,04-05-2026,46860,9372,FALSE,1019
+D056,Tablet,26-07-2022,SN753934,Admin,Poor,Decommissioned,Under Warranty,4,15,No,4,None,22-02-2026,68654,13730,TRUE,1814
+D057,Tablet,10-09-2020,SN547307,Physics,Poor,In Use,Expired,4,15,No,2,None,01-10-2024,6405,3125,TRUE,1789
+D058,Printer,08-08-2022,SN705739,Admin,Fair,Decommissioned,Under Warranty,6,30,No,1,None,31-05-2024,37844,23224,TRUE,1029
+D059,Printer,06-01-2022,SN511068,Humanities,Good,Decommissioned,Under Warranty,6,30,Yes,0,None,N/A,51281,10256,TRUE,1686
+D060,Monitor,14-05-2023,SN111898,ECE,Good,In Repair,Expired,6,40,Yes,1,Original,01-11-2025,57746,11549,FALSE,1618
+D061,Monitor,05-07-2017,SN737970,Humanities,Poor,In Use,Expired,6,40,No,2,None,03-02-2020,29609,14873,TRUE,1341
+D062,Monitor,21-01-2019,SN594106,Chemistry,Fair,In Use,Expired,6,40,No,3,None,09-07-2024,20752,4761,TRUE,1847
+D063,Printer,06-10-2018,SN964435,Chemistry,Poor,In Use,Expired,6,30,No,4,None,15-05-2022,47648,16317,TRUE,1029
+D064,Projector,06-05-2019,SN783027,Business,Fair,In Repair,Expired,6,250,No,0,None,N/A,17357,3471,TRUE,1893
+D065,Printer,12-02-2017,SN852570,Admin,Good,In Repair,Expired,6,30,No,4,None,12-05-2019,7129,3176,TRUE,1107
+D066,Desktop,07-06-2021,SN439153,Physics,Poor,In Use,Expired,7,150,No,1,None,27-04-2025,43220,8644,FALSE,2158
+D067,Monitor,16-11-2016,SN806161,Admin,Poor,In Use,Under Warranty,6,40,Yes,4,None,29-02-2020,33635,6727,TRUE,1221
+D068,Monitor,23-10-2016,SN813612,IT Services,Fair,In Use,Expired,6,40,No,1,None,05-01-2021,62945,23470,TRUE,1308
+D069,Scanner,17-07-2016,SN486388,CSE,Good,In Repair,Under Warranty,5,35,Yes,1,None,18-08-2017,63501,12700,TRUE,1694
+D070,Printer,02-10-2018,SN338295,Admin,Poor,In Repair,Under Warranty,6,30,Yes,4,None,29-04-2023,53302,10660,TRUE,2251
+D071,Router,16-08-2020,SN896475,ECE,Fair,In Repair,Expired,5,20,No,1,None,16-06-2023,5792,1158,TRUE,2330
+D072,Scanner,24-10-2017,SN684585,CSE,Good,In Repair,Under Warranty,5,35,No,1,None,10-05-2019,21249,5128,TRUE,1165
+D073,Router,12-02-2024,SN676750,Business,Good,Decommissioned,Under Warranty,5,20,Yes,2,Original,04-12-2026,3860,772,TRUE,1218
+D074,Tablet,04-07-2018,SN949374,Admin,Good,In Use,Under Warranty,4,15,Yes,4,None,19-09-2023,9529,3987,TRUE,1768
+D075,Scanner,02-03-2021,SN431636,ECE,Fair,In Use,Expired,5,35,No,1,None,26-09-2025,9401,2585,FALSE,1199
+D076,Projector,22-08-2020,SN430231,ECE,Poor,In Repair,Under Warranty,6,250,No,3,None,19-02-2025,50757,10151,FALSE,1089
+D077,Router,27-01-2019,SN202996,Business,Fair,Decommissioned,Under Warranty,5,20,No,4,None,18-02-2022,10003,2000,TRUE,1725
+D078,Desktop,22-07-2019,SN720203,CSE,Poor,In Repair,Expired,7,150,Yes,1,None,08-07-2023,19258,11312,FALSE,2120
+D079,Scanner,28-03-2018,SN768820,ECE,Good,Decommissioned,Expired,5,35,Yes,2,Original,08-02-2019,19086,7697,TRUE,1433
+D080,Desktop,06-04-2019,SN850576,Library,Fair,In Repair,Expired,7,150,Yes,0,Original,N/A,31242,6248,FALSE,1312
+D081,Tablet,04-09-2023,SN629401,Chemistry,Fair,In Use,Under Warranty,4,15,Yes,3,Duplicate,16-12-2026,11282,2256,FALSE,1890
+D082,Printer,01-06-2018,SN707879,Humanities,Good,In Repair,Under Warranty,6,30,No,4,None,30-05-2023,5964,3397,TRUE,1860
+D083,Tablet,18-02-2024,SN286548,Admin,Good,In Repair,Expired,4,15,No,0,None,N/A,15296,7985,FALSE,2265
+D084,Laptop,05-04-2019,SN914790,Chemistry,Good,In Use,Expired,5,65,No,3,None,06-03-2024,44308,9602,TRUE,1665
+D085,Desktop,06-10-2023,SN300783,IT Services,Good,In Repair,Expired,7,150,No,2,None,16-12-2026,49798,25117,FALSE,2178
+D086,Laptop,02-02-2021,SN891363,CSE,Good,In Repair,Expired,5,65,Yes,4,Duplicate,16-08-2024,61144,12228,FALSE,2237
+D087,Tablet,23-06-2023,SN585354,Chemistry,Poor,In Use,Expired,4,15,Yes,2,None,08-02-2026,49509,9901,FALSE,2031
+D088,Monitor,30-11-2022,SN965902,Humanities,Good,In Repair,Under Warranty,6,40,No,2,None,12-08-2027,3663,2491,FALSE,1943
+D089,Printer,17-07-2023,SN584534,Humanities,Good,In Repair,Under Warranty,6,30,Yes,0,None,N/A,33394,22936,FALSE,1813
+D090,Desktop,04-09-2019,SN917523,Math,Poor,Decommissioned,Under Warranty,7,150,Yes,1,Original,22-07-2021,22757,4551,TRUE,1042
+D091,Monitor,24-02-2020,SN456814,Math,Good,Decommissioned,Expired,6,40,No,2,None,06-11-2023,30408,20548,TRUE,1424
+D092,Projector,18-11-2019,SN163338,Physics,Fair,In Repair,Under Warranty,6,250,No,2,None,24-05-2024,7813,5523,TRUE,2469
+D093,Scanner,16-01-2019,SN101891,CSE,Poor,In Use,Under Warranty,5,35,Yes,2,None,07-12-2020,41197,16783,TRUE,1820
+D094,Projector,12-04-2017,SN613357,Admin,Fair,In Use,Expired,6,250,Yes,2,None,11-10-2019,5396,3808,TRUE,1117
+D095,Projector,19-04-2022,SN646496,Library,Fair,Decommissioned,Under Warranty,6,250,Yes,1,Duplicate,25-06-2023,42929,8585,TRUE,2435
+D096,Tablet,08-04-2017,SN232070,Humanities,Good,In Use,Under Warranty,4,15,No,2,None,11-11-2019,47275,30411,TRUE,1855
+D097,Tablet,12-04-2021,SN485915,Chemistry,Good,Decommissioned,Under Warranty,4,15,Yes,2,None,05-10-2025,9135,1827,TRUE,1177
+D098,Projector,24-09-2016,SN832289,ECE,Poor,In Repair,Expired,6,250,No,3,None,02-12-2017,69113,13822,TRUE,1412
+D099,Router,28-09-2020,SN435317,Physics,Good,In Repair,Under Warranty,5,20,Yes,1,Original,26-09-2021,65053,24524,TRUE,1278
+D100,Monitor,06-05-2019,SN287421,CSE,Poor,In Repair,Under Warranty,6,40,Yes,1,Original,08-12-2020,26887,9384,TRUE,1848
+D101,Printer,25-01-2022,SN885881,IT Services,Good,In Use,Expired,6,30,Yes,3,None,31-08-2024,46620,9324,FALSE,1404
+D102,Monitor,23-12-2019,SN443070,Humanities,Good,Decommissioned,Under Warranty,6,40,Yes,0,None,N/A,63110,17722,TRUE,1778
+D103,Router,10-09-2022,SN727961,CSE,Poor,In Use,Under Warranty,5,20,Yes,3,None,19-09-2024,64826,12965,FALSE,2468
+D104,Printer,11-08-2015,SN150318,Library,Poor,In Use,Under Warranty,6,30,No,4,None,12-12-2018,64314,33152,TRUE,2234
+D105,Projector,15-07-2016,SN106857,Library,Poor,In Repair,Expired,6,250,No,2,None,07-01-2021,23748,5048,TRUE,2197
+D106,Tablet,12-08-2016,SN822901,Humanities,Fair,Decommissioned,Expired,4,15,No,0,None,N/A,61827,12365,TRUE,1548
+D107,Printer,20-06-2016,SN811392,Business,Good,In Repair,Expired,6,30,Yes,3,None,01-10-2018,55945,11189,TRUE,1178
+D108,Tablet,04-05-2022,SN316166,Physics,Good,In Use,Under Warranty,4,15,Yes,1,Duplicate,04-12-2024,12930,2586,FALSE,1572
+D109,Desktop,13-09-2015,SN832299,Humanities,Poor,Decommissioned,Under Warranty,7,150,Yes,2,None,28-10-2017,53745,24899,TRUE,1962
+D110,Router,27-03-2023,SN972626,Business,Poor,In Repair,Expired,5,20,Yes,3,Duplicate,15-02-2026,28149,5629,FALSE,1933
+D111,Router,06-10-2020,SN805323,ECE,Poor,In Use,Under Warranty,5,20,Yes,3,None,18-01-2026,7277,4752,TRUE,2381
+D112,Projector,21-08-2015,SN215081,IT Services,Poor,In Use,Under Warranty,6,250,No,2,None,18-06-2020,57095,16760,TRUE,1854
+D113,Scanner,17-12-2016,SN632884,Physics,Fair,In Repair,Under Warranty,5,35,Yes,3,None,24-05-2021,29171,13754,TRUE,1414
+D114,Printer,23-02-2021,SN330370,IT Services,Good,In Repair,Expired,6,30,Yes,2,Duplicate,27-05-2023,64483,12896,FALSE,1360
+D115,Projector,08-09-2023,SN165753,Math,Good,In Use,Expired,6,250,Yes,1,None,17-10-2026,60039,12007,FALSE,1954
+D116,Desktop,11-05-2016,SN768191,CSE,Fair,Decommissioned,Under Warranty,7,150,Yes,1,None,24-10-2017,65193,13038,TRUE,1660
+D117,Router,02-08-2023,SN505898,Admin,Poor,In Use,Expired,5,20,No,3,None,11-10-2024,65555,37590,FALSE,1784
+D118,Printer,12-09-2015,SN477049,Library,Poor,In Use,Under Warranty,6,30,Yes,1,None,13-01-2019,46137,9808,TRUE,1331
+D119,Router,20-08-2021,SN576123,Admin,Fair,In Repair,Expired,5,20,No,1,None,05-06-2025,50977,10195,FALSE,2147
+D120,Scanner,26-02-2017,SN807947,Humanities,Good,In Use,Expired,5,35,Yes,1,Original,22-09-2019,59785,12325,TRUE,1370
+D121,Laptop,28-06-2015,SN172755,CSE,Poor,In Use,Under Warranty,5,65,Yes,4,None,19-07-2017,23695,17349,TRUE,2137
+D122,Projector,01-08-2020,SN798120,Math,Poor,Decommissioned,Under Warranty,6,250,Yes,2,None,25-06-2022,46434,9757,TRUE,1968
+D123,Router,22-11-2023,SN528361,Library,Good,In Repair,Under Warranty,5,20,No,4,None,14-02-2028,64740,36697,FALSE,2016
+D124,Projector,26-06-2015,SN272763,Humanities,Good,In Use,Expired,6,250,No,0,None,N/A,16804,9539,TRUE,1239
+D125,Scanner,28-07-2018,SN908022,Humanities,Good,In Repair,Expired,5,35,Yes,2,Duplicate,20-12-2022,32163,18187,TRUE,1957
+D126,Monitor,09-03-2023,SN636365,CSE,Poor,Decommissioned,Under Warranty,6,40,Yes,2,None,11-12-2026,44646,32775,TRUE,1908
+D127,Scanner,13-10-2019,SN456302,Humanities,Good,In Use,Expired,5,35,Yes,4,None,08-10-2023,9350,4886,TRUE,1018
+D128,Scanner,18-03-2019,SN867656,Admin,Good,In Repair,Under Warranty,5,35,No,1,None,16-11-2023,5727,1145,TRUE,1554
+D129,Desktop,17-11-2020,SN487226,IT Services,Good,Decommissioned,Expired,7,150,Yes,1,None,09-11-2023,54068,19923,TRUE,1977
+D130,Desktop,22-02-2021,SN349015,Business,Good,In Repair,Expired,7,150,Yes,3,Original,23-01-2024,32327,6465,FALSE,1779
+D131,Desktop,15-01-2016,SN669972,Admin,Fair,In Use,Expired,7,150,Yes,0,None,N/A,4379,875,TRUE,1635
+D132,Monitor,12-02-2018,SN754031,Admin,Good,In Use,Expired,6,40,No,2,None,01-08-2022,9920,5977,TRUE,2388
+D133,Projector,14-08-2019,SN198124,IT Services,Poor,In Repair,Under Warranty,6,250,No,2,None,17-04-2024,19676,10247,TRUE,1364
+D134,Monitor,20-11-2023,SN251251,Physics,Good,Decommissioned,Expired,6,40,No,2,None,21-06-2027,48693,16955,TRUE,1704
+D135,Laptop,28-11-2017,SN444133,Math,Poor,In Repair,Expired,5,65,No,2,None,15-03-2020,45824,9164,TRUE,1258
+D136,Desktop,18-09-2018,SN944148,Math,Poor,In Use,Expired,7,150,No,4,None,11-02-2024,61445,12289,TRUE,1903
+D137,Laptop,02-04-2017,SN333386,Admin,Poor,In Repair,Under Warranty,5,65,Yes,1,Original,18-04-2020,45910,9182,TRUE,2324
+D138,Projector,17-03-2019,SN886538,Business,Poor,Decommissioned,Under Warranty,6,250,Yes,2,Duplicate,20-06-2023,59732,14662,TRUE,1606
+D139,Monitor,28-11-2020,SN698110,Humanities,Fair,In Use,Under Warranty,6,40,No,1,None,14-05-2025,42145,24426,FALSE,1012
+D140,Router,17-07-2019,SN607097,Physics,Fair,In Repair,Expired,5,20,No,1,None,28-06-2021,6944,4389,TRUE,1555
+D141,Desktop,09-07-2021,SN586664,Library,Good,In Repair,Under Warranty,7,150,No,2,None,02-09-2023,54971,46250,FALSE,2263
+D142,Desktop,17-07-2018,SN328081,Library,Poor,Decommissioned,Under Warranty,7,150,Yes,4,Duplicate,25-03-2021,18606,4817,TRUE,1906
+D143,Laptop,18-09-2017,SN206232,IT Services,Fair,Decommissioned,Expired,5,65,No,1,None,27-06-2020,66309,13261,TRUE,2074
+D144,Projector,08-01-2024,SN652539,CSE,Poor,In Use,Expired,6,250,No,3,None,14-10-2027,27961,17665,FALSE,2080
+D145,Laptop,04-01-2021,SN360019,Physics,Good,Decommissioned,Expired,5,65,Yes,1,None,04-08-2023,37750,7550,TRUE,1892
+D146,Monitor,06-08-2017,SN398339,Business,Poor,Decommissioned,Expired,6,40,No,3,None,07-11-2020,30933,19034,TRUE,1200
+D147,Projector,02-07-2018,SN202397,Math,Poor,In Use,Expired,6,250,No,1,None,25-06-2023,11095,6074,TRUE,2434
+D148,Router,13-11-2023,SN594236,IT Services,Fair,Decommissioned,Expired,5,20,No,0,None,N/A,55586,16203,TRUE,1784
+D149,Tablet,04-02-2016,SN416451,CSE,Fair,In Use,Expired,4,15,Yes,0,Original,N/A,34780,13073,TRUE,1760
+D150,Router,23-09-2020,SN802082,IT Services,Poor,In Use,Under Warranty,5,20,Yes,2,None,13-03-2026,51826,10365,TRUE,2486
+D151,Tablet,30-12-2017,SN230969,Math,Fair,In Use,Expired,4,15,Yes,3,Duplicate,22-08-2020,66708,13341,TRUE,1581
+D152,Laptop,16-03-2021,SN536747,Chemistry,Poor,In Repair,Expired,5,65,No,0,None,N/A,18071,3614,FALSE,1448
+D153,Projector,04-11-2019,SN439498,Business,Fair,In Repair,Under Warranty,6,250,No,4,None,03-11-2021,21264,8776,TRUE,1020
+D154,Monitor,12-03-2020,SN436627,Physics,Fair,In Repair,Expired,6,40,Yes,2,Duplicate,05-12-2022,17601,3520,FALSE,1207
+D155,Laptop,13-11-2016,SN598192,Physics,Poor,In Repair,Expired,5,65,No,0,None,N/A,15125,3025,TRUE,1977
+D156,Desktop,14-11-2016,SN977678,Humanities,Poor,Decommissioned,Expired,7,150,Yes,1,Original,10-03-2021,65893,13178,TRUE,1362
+D157,Projector,26-06-2021,SN460314,Humanities,Good,Decommissioned,Under Warranty,6,250,No,0,None,N/A,33690,6738,TRUE,2298
+D158,Desktop,14-02-2021,SN965011,CSE,Good,In Use,Under Warranty,7,150,Yes,1,None,04-06-2026,59761,37461,FALSE,2474
+D159,Router,12-12-2023,SN234950,Admin,Good,Decommissioned,Under Warranty,5,20,No,2,None,12-06-2026,40391,29120,TRUE,2201
+D160,Desktop,02-08-2016,SN524266,Math,Fair,In Repair,Expired,7,150,Yes,0,Original,N/A,38878,7775,TRUE,1961
+D161,Tablet,20-04-2023,SN716909,Chemistry,Fair,In Use,Under Warranty,4,15,Yes,4,None,02-06-2024,16512,3302,FALSE,1495
+D162,Scanner,17-09-2017,SN596885,IT Services,Fair,Decommissioned,Expired,5,35,Yes,4,Duplicate,04-12-2018,43281,8656,TRUE,1383
+D163,Laptop,01-04-2023,SN195309,IT Services,Poor,In Repair,Expired,5,65,Yes,4,Duplicate,06-02-2025,19057,3811,FALSE,2285
+D164,Tablet,09-11-2017,SN281115,Admin,Fair,Decommissioned,Under Warranty,4,15,No,4,None,08-09-2018,59747,17416,TRUE,1649
+D165,Printer,17-02-2016,SN756881,Chemistry,Poor,Decommissioned,Expired,6,30,Yes,0,None,N/A,49650,37101,TRUE,1868
+D166,Printer,21-04-2016,SN615978,Library,Poor,In Repair,Expired,6,30,Yes,0,Original,N/A,36476,7295,TRUE,2486
+D167,Printer,26-11-2020,SN804707,Chemistry,Good,Decommissioned,Under Warranty,6,30,Yes,0,Duplicate,N/A,6667,1333,TRUE,1514
+D168,Monitor,30-01-2022,SN675016,IT Services,Good,In Use,Expired,6,40,No,2,None,20-06-2027,60373,12074,FALSE,2274
+D169,Laptop,03-09-2018,SN820829,Chemistry,Fair,Decommissioned,Expired,5,65,Yes,2,None,08-04-2021,8982,1796,TRUE,1026
+D170,Printer,19-01-2017,SN150834,Physics,Fair,In Repair,Expired,6,30,Yes,2,None,30-08-2018,55452,11090,TRUE,1124
+D171,Tablet,09-03-2023,SN976932,Chemistry,Fair,In Use,Expired,4,15,No,3,None,29-09-2025,16914,11937,FALSE,2470
+D172,Router,05-09-2023,SN848553,Humanities,Fair,In Repair,Expired,5,20,Yes,4,Original,19-11-2025,20421,6859,FALSE,2129
+D173,Printer,22-10-2021,SN174337,Business,Good,Decommissioned,Under Warranty,6,30,No,2,None,08-10-2023,45757,35377,TRUE,2202
+D174,Laptop,14-05-2017,SN860464,Admin,Fair,In Repair,Under Warranty,5,65,Yes,1,Duplicate,19-01-2021,33945,6789,TRUE,1836
+D175,Desktop,14-04-2017,SN174431,Business,Fair,In Repair,Under Warranty,7,150,No,1,None,11-08-2018,64340,21214,TRUE,1358
+D176,Printer,24-06-2018,SN580851,Math,Good,In Use,Under Warranty,6,30,Yes,1,Original,08-11-2019,38261,7652,TRUE,1561
+D177,Monitor,19-02-2017,SN263756,Chemistry,Poor,Decommissioned,Under Warranty,6,40,Yes,1,Duplicate,01-11-2021,29751,5950,TRUE,1335
+D178,Laptop,29-05-2017,SN572248,Physics,Good,In Repair,Expired,5,65,Yes,1,None,09-08-2020,28577,6369,TRUE,1622
+D179,Desktop,15-11-2021,SN272234,Physics,Poor,In Repair,Under Warranty,7,150,Yes,4,Original,02-04-2023,53953,10790,FALSE,2342
+D180,Tablet,18-08-2021,SN131030,Library,Poor,In Use,Under Warranty,4,15,Yes,2,None,21-10-2025,39599,26140,TRUE,1050
+D181,Printer,04-12-2023,SN744470,Chemistry,Poor,In Use,Under Warranty,6,30,No,1,None,22-07-2026,29788,5957,FALSE,2380
+D182,Printer,15-06-2020,SN309700,Chemistry,Good,Decommissioned,Under Warranty,6,30,No,0,None,N/A,15806,3161,TRUE,1578
+D183,Laptop,22-10-2019,SN769875,CSE,Poor,In Use,Under Warranty,5,65,Yes,3,Original,05-06-2021,22758,4551,TRUE,1078
+D184,Laptop,20-11-2023,SN720617,Chemistry,Fair,In Repair,Expired,5,65,Yes,0,None,N/A,48700,9740,FALSE,2316
+D185,Desktop,27-08-2021,SN766535,Business,Fair,In Repair,Expired,7,150,No,0,None,N/A,8047,1609,FALSE,1923
+D186,Desktop,11-09-2017,SN719498,Library,Fair,In Repair,Expired,7,150,No,2,None,16-01-2023,49136,14343,TRUE,1704
+D187,Monitor,18-04-2023,SN207615,Chemistry,Poor,In Repair,Expired,6,40,Yes,1,None,15-03-2028,12361,2472,FALSE,1775
+D188,Router,11-12-2019,SN740642,Library,Poor,Decommissioned,Under Warranty,5,20,No,3,None,18-11-2022,40162,23756,TRUE,1093
+D189,Scanner,24-05-2016,SN463927,Admin,Poor,In Repair,Expired,5,35,No,2,None,17-02-2020,22730,8027,TRUE,1774
+D190,Router,21-06-2023,SN449029,Physics,Fair,In Use,Expired,5,20,Yes,3,Original,01-02-2024,45558,32826,FALSE,1826
+D191,Laptop,09-03-2018,SN856239,Business,Good,In Use,Under Warranty,5,65,Yes,4,None,11-12-2022,21788,4357,TRUE,1111
+D192,Printer,29-07-2015,SN208810,Humanities,Good,In Repair,Expired,6,30,Yes,4,Original,01-10-2019,63714,12742,TRUE,1445
+D193,Tablet,11-02-2022,SN358684,CSE,Good,In Use,Under Warranty,4,15,No,3,None,30-03-2026,31075,7079,FALSE,1171
+D194,Scanner,07-05-2019,SN839209,Admin,Fair,In Repair,Expired,5,35,No,2,None,27-03-2024,49991,11162,TRUE,2082
+D195,Tablet,25-05-2021,SN318730,Physics,Fair,In Use,Under Warranty,4,15,Yes,3,Original,09-11-2024,3079,647,TRUE,1921
+D196,Router,24-06-2023,SN482133,Business,Good,In Use,Under Warranty,5,20,No,3,None,09-03-2024,4413,3578,FALSE,2396
+D197,Laptop,15-02-2024,SN127159,Business,Fair,In Use,Expired,5,65,Yes,0,None,N/A,57896,12657,FALSE,2382
+D198,Laptop,24-06-2016,SN109527,Library,Good,In Use,Expired,5,65,No,1,None,28-12-2017,22461,13821,TRUE,1985
+D199,Projector,07-01-2021,SN797592,Business,Poor,Decommissioned,Expired,6,250,No,2,None,13-10-2023,38823,32026,TRUE,1654
+D200,Scanner,07-11-2017,SN622065,Humanities,Good,In Use,Expired,5,35,Yes,1,None,27-07-2022,9462,6285,TRUE,1714
