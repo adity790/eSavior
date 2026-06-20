@@ -30,10 +30,6 @@ This project is based on the published research paper:
 - **Published:** September 2025
 - **DOI:** `10.1109/ICICIS65613.2025.11371048`
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
 ---
 ⭐ If you find this project useful, consider giving it a star on GitHub.
 
